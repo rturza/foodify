@@ -1,0 +1,120 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  font-family: "Nunito Sans", sans-serif;
+  margin: 0;
+}
+h1 {
+  font-size: 50px;
+  font-weight: 900;
+}
+.textiy {
+  font-size: 20px;
+  font-weight: 500;
+}
+.orange-color {
+  color: #43e97b;
+}
+.half-width {
+  width: 50%;
+  padding-left: 5%;
+  margin-top: 100px;
+}
+.half-width2 {
+  width: 50%;
+  padding-right: 5%;
+  margin-top: 100px;
+}
+.order-button {
+  text-decoration: none;
+  background-image: linear-gradient(to right, #43e97b 0%, #38f9d7 100%);
+  color: white;
+  font-weight: 700;
+  padding: 10px 30px;
+  border-radius: 10px;
+  /* margin-top: 500px; */
+}
+.half-width img {
+  width: 80%;
+}
+.flexible-container {
+  display: flex;
+  margin-bottom: 200px;
+}
+.flexible-container img {
+  margin-left: 100px;
+}
+.about-img {
+  width: 50%;
+}
+.about-img-txt {
+  width: 50%;
+}
+.contact-button {
+  text-decoration: none;
+  background-image: linear-gradient(to right, #43e97b 0%, #38f9d7 100%);
+  color: white;
+  font-weight: 700;
+  padding: 10px 30px;
+  border-radius: 10px;
+}
+.recipie-head {
+  text-align: center;
+}
+.recipie-item {
+  box-shadow: 10px 5px 40px gray;
+  width: 26.67%;
+  margin-left: 5%;
+  margin-right: 5%;
+  border-radius: 10px;
+  padding: 20px;
+}
+.recipie-area {
+  /* background-image: url(images/shapes/Frame\ 56.jpg); */
+  background-repeat: no-repeat;
+  background-position: left;
+}
+.flexible-container2 {
+  display: flex;
+  margin-bottom: 100px;
+}
+.img-card {
+  height: 250px;
+  width: 100%;
+  padding-right: 50%;
+}
+.member-card {
+  height: 200px;
+  width: 200px;
+  /* padding-right: 50%; */
+}
+input {
+  border-radius: 5px;
+}
+button {
+  text-decoration: none;
+  background-image: linear-gradient(to right, #43e97b 0%, #38f9d7 100%);
+  color: white;
+  font-weight: 700;
+  padding: 10px 30px;
+  border-radius: 10px;
+}
+.stay-head {
+  text-align: center;
+}
+footer {
+  text-align: center;
+  color: white;
+  background-color: black;
+  padding: 60px;
+}
+footer p {
+  color: white;
+}
+.inp-submit {
+  position: center;
+}
+.flex-bg {
+  background-image: url(images/shapes/Frame\ 57.jpg);
+  background-repeat: no-repeat;
+  margin-top: 20px;
+}
